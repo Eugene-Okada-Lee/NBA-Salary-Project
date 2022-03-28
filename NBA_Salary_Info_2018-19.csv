@@ -1,0 +1,466 @@
+Player,Position,Age,Team,College,Nationality,Draft Year,Draft Round,Draft number,Games Played ,PPG,RPG,APG,Net Rating,SALARY
+Jawun Evans,PG,22,TOT,Oklahoma State,USA,2017,2,39,8,0.8,1.5,1.3,-38,1378242
+Wade Baldwin IV,PG,22,POR,Vanderbilt,USA,2016,1,17,16,1.9,0.9,0.8,-36.8,1544951
+Okaro White,PF,26,WAS,Florida State,USA,Undrafted,Undrafted,Undrafted,3,0,0.7,0,-26.2,1187862
+Jimmer Fredette,SG,29,PHO,Brigham Young,USA,2011,1,10,6,3.7,1.2,1.3,-25.5,208509
+Chris Chiozza,PG,23,HOU,None,USA,Undrafted,Undrafted,Undrafted,7,0.9,0.6,0.6,-25,90005
+Lonnie Walker IV,SG,20,SAS,Miami,USA,2018,1,18,17,2.6,1,0.5,-24.3,2357160
+Channing Frye,C,35,CLE,Arizona,USA,2005,1,8,36,3.6,1.4,0.6,-22.7,1512601
+Eric Moreland,PF,27,TOT,Oregon State,USA,Undrafted,Undrafted,Undrafted,5,1.4,4,0.8,-21.9,17092
+Udonis Haslem,C,38,MIA,Florida,USA,Undrafted,Undrafted,Undrafted,10,2.5,2.7,0.2,-21.3,1512601
+Tony Bradley,C,21,UTA,North Carolina,USA,2017,1,28,3,5.7,5,0.3,-18.9,1679520
+Anfernee Simons,SG,19,POR,None,USA,2018,1,24,20,3.8,0.7,0.7,-17.6,1760520
+Marquese Chriss,PF,21,TOT,Washington,USA,2016,1,8,43,4.2,3.3,0.5,-17.3,3206160
+Caleb Swanigan,PF,21,TOT,Purdue,USA,2017,1,26,21,2,3,0.5,-16.8,1740000
+Cameron Payne,PG,24,TOT,Murray State,USA,2015,1,14,40,6.3,1.8,2.7,-15.2,3263294
+Jamal Crawford,SG,38,PHO,Michigan,USA,2000,1,8,64,7.9,1.3,3.6,-15.1,1512601
+Mo Bamba,C,20,ORL,University of Texas at Austin,USA,2018,1,6,47,6.2,5,0.8,-14.9,4865040
+Frank Mason,PG,24,SAC,Kansas,USA,2017,2,34,38,5.1,1.1,2.2,-14.5,1378242
+Ike Anigbogu,C,20,IND,UCLA,USA,2017,2,47,3,0,1,0.3,-14.3,1378242
+Grayson Allen,SG,23,UTA,Duke,USA,2018,1,21,38,5.6,0.6,0.7,-13.6,2074320
+Kevin Knox II,PF,19,NYK,Kentucky,USA,2018,1,9,75,12.8,4.5,1.1,-13.6,3739920
+Melvin Frazier Jr.,SG,22,ORL,Tulane,USA,2018,2,35,10,1.5,0.5,0.1,-13.5,1050000
+Jon Leuer,PF,29,DET,Wisconsin,USA,2011,2,40,41,3.8,2.4,0.3,-13.3,10002681
+Justin Patton,C,21,PHI,Creighton,USA,2017,1,16,3,1.7,2,1,-12.9,2667600
+Ryan Anderson,PF,30,TOT,California,USA,2008,1,21,25,2.5,2.2,0.8,-12.8,20421546
+BJ Johnson,SF,23,TOT,None,USA,Undrafted,Undrafted,Undrafted,7,3.3,1.1,0,-12.6,42634
+Collin Sexton,PG,20,CLE,Alabama,USA,2018,1,8,82,16.7,2.9,3,-12.5,4068600
+Jerryd Bayless,PG,30,MIN,Arizona,USA,2008,1,11,34,6.1,1.8,3.5,-12.4,8575916
+Isaiah Canaan,PG,27,TOT,Murray State,USA,2013,2,34,30,6,1.9,2.8,-12.3,1512601
+Jason Smith,C-PF,32,TOT,Colorado State,USA,2007,1,20,20,3.3,2.6,0.7,-12.1,5450000
+Brandon Knight,PG,27,TOT,Kentucky,USA,2011,1,8,39,6.8,1.5,1.8,-12,14631250
+Wendell Carter Jr.,C,19,CHI,Duke,USA,2018,1,7,44,10.3,7,1.8,-11.7,4441200
+Alec Burks,SG,27,TOT,Colorado,USA,2011,1,12,64,8.8,3.7,2,-11.1,11536515
+Duncan Robinson,SF,24,MIA,Michigan,USA,Undrafted,Undrafted,Undrafted,15,3.3,1.3,0.3,-10.9,9474
+Lance Thomas,PF,30,NYK,Duke,USA,Undrafted,Undrafted,Undrafted,46,4.5,2.5,0.6,-10.9,7119650
+Omari Spellman,PF,21,ATL,Villanova,USA,2018,1,30,46,5.9,4.2,1,-10.3,1620480
+Miles Plumlee,C,30,ATL,Duke,USA,2012,1,26,18,4.4,2.2,0.9,-10.2,12500000
+Shaquille Harrison,SG,25,CHI,Tulsa,USA,Undrafted,Undrafted,Undrafted,73,6.5,3,1.9,-10.2,1311265
+Alex Poythress,PF,25,ATL,Kentucky,USA,Undrafted,Undrafted,Undrafted,21,5.1,3.6,0.8,-10,1544951
+Carmelo Anthony,PF,34,HOU,Syracuse,USA,2003,1,3,10,13.4,5.4,0.5,-9.9,1512601
+Deyonta Davis,C,22,ATL,Michigan State,USA,2016,2,31,9,4,4,0.6,-9.8,25367
+Wayne Selden,SG,24,TOT,Kansas,USA,Undrafted,Undrafted,Undrafted,75,6.9,2.4,1.5,-9.6,1544951
+Josh Jackson,SG,21,PHO,Kansas,USA,2017,1,4,79,11.5,4.4,2.3,-9.6,6041520
+Troy Williams,SF,24,SAC,Indiana,USA,Undrafted,Undrafted,Undrafted,21,5.3,2.8,0.5,-9.5,1512601
+Christian Wood,PF,23,TOT,UNLV,USA,Undrafted,Undrafted,Undrafted,21,8.2,4,0.4,-9.4,1512601
+Shelvin Mack,PG,28,TOT,Butler,USA,2011,2,34,57,7.5,1.8,3.2,-9.1,1512601
+Dwight Howard,C,33,WAS,None,USA,2004,1,1,9,12.8,9.2,0.4,-9.1,5337000
+Tim Hardaway Jr.,SG,26,TOT,Michigan,USA,2013,1,24,65,18.1,3.4,2.4,-9.1,19200127
+Larry Nance Jr.,C,26,CLE,Wyoming,USA,2015,1,27,67,9.4,8.2,3.2,-8.8,2272391
+Rajon Rondo,PG,32,LAL,Kentucky,USA,2006,1,21,46,9.2,5.3,8,-8.6,9000000
+Tyler Lydon,PF,22,DEN,Syracuse,USA,2017,1,24,25,0.9,0.7,0.2,-8.3,1874640
+Dante Cunningham,PF,31,SAS,Villanova,USA,2009,2,33,64,3,2.9,0.8,-8.2,2487000
+Khyri Thomas,SG,22,DET,Creighton,USA,2018,2,38,26,2.3,0.8,0.3,-8,838464
+Damyean Dotson,SG,24,NYK,Houston,USA,2017,2,44,73,10.7,3.6,1.8,-8,1378242
+Jordan Clarkson,SG,26,CLE,Missouri,USA,2014,2,46,81,16.8,3.3,2.4,-8,12500000
+De'Anthony Melton,PG,20,PHO,USC,USA,2018,2,46,50,5,2.7,3.2,-7.9,949000
+Stanley Johnson,SF,22,TOT,Arizona,USA,2015,1,8,66,6.9,3.3,1.3,-7.9,3940402
+Antonio Blakeney,SG,22,CHI,Louisiana State,USA,Undrafted,Undrafted,Undrafted,57,7.3,1.9,0.7,-7.8,1349383
+Ekpe Udoh,C,31,UTA,Baylor,USA,2010,1,6,51,2.3,1.8,0.5,-7.7,3360000
+Georges Niang,PF,25,UTA,Iowa State,USA,2016,2,50,59,4,1.5,0.6,-7.7,1512601
+Justin Holiday,SG,29,TOT,Washington,USA,Undrafted,Undrafted,Undrafted,82,10.5,3.9,1.8,-7.7,4384616
+Kent Bazemore,SG,29,ATL,Old Dominion,USA,Undrafted,Undrafted,Undrafted,67,11.6,3.9,2.3,-7.7,18089887
+T.J. Warren,SF,25,PHO,North Carolina State,USA,2014,1,14,43,18,4,1.5,-7.7,11750000
+Noah Vonleh,PF,23,NYK,Indiana,USA,2014,1,9,68,8.4,7.8,1.9,-7.6,1512601
+Kris Dunn,PG,24,CHI,Providence,USA,2016,1,5,46,11.3,4.1,6,-7.6,4221000
+Rodney Hood,SG,26,TOT,Duke,USA,2014,1,23,72,11.2,2.2,1.8,-7.4,3472887
+Wesley Johnson,SF,31,TOT,Syracuse,USA,2010,1,4,38,3.4,1.9,0.6,-7.3,6134520
+Jerian Grant,PG,26,ORL,Notre Dame,USA,2015,1,19,60,4.2,1.6,2.6,-7.3,2639314
+Devonte' Graham,PG,23,CHO,Kansas,USA,2018,2,34,46,4.7,1.4,2.6,-7.3,988464
+Allonzo Trier,SG,23,NYK,Arizona,USA,Undrafted,Undrafted,Undrafted,64,10.9,3.1,1.9,-7.2,3382000
+Taurean Prince,SF,24,ATL,Baylor,USA,2016,1,12,55,13.5,3.6,2.1,-6.9,2526840
+Devin Booker,SG,22,PHO,Kentucky,USA,2015,1,13,64,26.6,4.1,6.8,-6.9,3314365
+Hamidou Diallo,SG,20,OKC,Kentucky,USA,2018,2,45,51,3.7,1.9,0.3,-6.8,838464
+Ray Spalding,PF,21,TOT,Louisville,USA,2018,2,56,14,3.9,3.4,0.4,-6.8,184746
+Jevon Carter,PG,23,MEM,West Virginia,USA,2018,2,32,39,4.4,1.7,1.8,-6.8,838464
+Mikal Bridges,SF,22,PHO,Villanova,USA,2018,1,10,82,8.3,3.2,2.1,-6.8,3552960
+Trevor Ariza,SF,33,TOT,UCLA,USA,2004,2,43,69,12.5,5.4,3.7,-6.8,15000000
+Greg Monroe,C,28,TOT,Georgetown,USA,2010,1,7,43,5.3,4,0.6,-6.7,59820
+Jaylen Adams,PG,22,ATL,St. Bonaventure,USA,Undrafted,Undrafted,Undrafted,34,3.2,1.8,1.9,-6.5,270014
+Solomon Hill,SF,27,NOP,Arizona,USA,2013,1,23,44,4.3,3,1.3,-6.5,12252928
+John Jenkins,SG,27,TOT,Vanderbilt,USA,2012,1,23,26,4.7,1.4,0.8,-6.5,486520
+Zach LaVine,SG,23,CHI,UCLA,USA,2014,1,13,63,23.7,4.7,4.5,-6.5,19500000
+Patrick McCaw,SG,23,TOT,UNLV,USA,2016,2,38,29,2.6,1.7,1,-6.4,777665
+Courtney Lee,SG,33,TOT,Western Kentucky,USA,2008,1,22,34,4,1.6,1.1,-6.4,12253780
+Troy Daniels,SG,27,PHO,Va Commonwealth,USA,Undrafted,Undrafted,Undrafted,51,6.2,1.4,0.5,-6.4,3258539
+Quinn Cook,PG,25,GSW,Duke,USA,Undrafted,Undrafted,Undrafted,74,6.9,2.1,1.6,-6.3,1544951
+Vince Carter,PF,42,ATL,North Carolina,USA,1998,1,5,76,7.4,2.6,1.1,-6.3,1512601
+Trae Young,PG,20,ATL,Oklahoma,USA,2018,1,5,81,19.1,3.7,8.1,-6.3,5356440
+Ivan Rabb,PF,21,MEM,"University of California, Berkeley",USA,2017,2,35,49,5.8,4.2,1.1,-6.2,1378242
+Mitchell Robinson,C,20,NYK,None,USA,2018,2,36,66,7.3,6.4,0.6,-6.2,1485440
+Jabari Parker,PF,23,TOT,Duke,USA,2014,1,2,64,14.5,6.6,2.4,-6.2,20000000
+John Wall,PG,28,WAS,Kentucky,USA,2010,1,1,32,20.7,3.6,8.7,-6.2,19169800
+Michael Beasley,PF,30,LAL,Kansas State,USA,2008,1,2,26,7,2.3,1,-6,3500000
+Kelly Oubre Jr.,SF,23,TOT,Kansas,USA,2015,1,15,69,15.2,4.7,1.2,-6,3208630
+Jacob Evans,SG,21,GSW,Cincinnati,USA,2018,1,28,30,1.3,0.8,0.8,-5.9,1644240
+Robert Williams III,C,21,BOS,Texas A&M,USA,2018,1,27,32,2.5,2.5,0.2,-5.9,1654440
+Markieff Morris,PF,29,TOT,Kansas,USA,2011,1,13,58,9.4,4.6,1.4,-5.9,427288
+Chasson Randle,PG,25,WAS,Stanford,USA,Undrafted,Undrafted,Undrafted,49,5.5,1.1,2,-5.8,869094
+Ryan Arcidiacono,PG,24,CHI,Villanova,USA,Undrafted,Undrafted,Undrafted,81,6.7,2.7,3.3,-5.8,1349383
+JaMychal Green,PF,28,TOT,Alabama,USA,Undrafted,Undrafted,Undrafted,65,9.4,6.3,0.8,-5.8,7666667
+Patrick Patterson,PF,29,OKC,Kentucky,USA,2010,1,14,63,3.6,2.3,0.5,-5.7,5451600
+Justin Anderson,SF,25,ATL,Virginia,USA,2015,1,21,48,3.7,1.8,0.5,-5.7,2516048
+Chandler Hutchison,SF,22,CHI,Boise State,USA,2018,1,22,44,5.2,4.2,0.8,-5.6,1990520
+Andrew Harrison,PG,24,TOT,Kentucky,USA,2015,2,44,17,3.2,1.2,1.4,-5.5,1544951
+Isaiah Thomas,SG,29,DEN,Washington,USA,2011,2,60,12,8.1,1.1,1.9,-5.5,1512601
+Jahlil Okafor,C,23,NOP,Duke,USA,2015,1,3,59,8.2,4.7,0.7,-5.5,1567707
+Chandler Parsons,SF,30,MEM,Florida,USA,2011,2,38,25,7.5,2.8,1.7,-5.4,24107258
+Richaun Holmes,C,25,PHO,Bowling Green,USA,2015,2,37,70,8.2,4.7,0.9,-5.4,1600520
+Jordan Bell,C,24,GSW,Oregon,USA,2017,2,38,68,3.3,2.7,1.1,-5.3,1378242
+Sam Dekker,PF,24,TOT,Wisconsin,USA,2015,1,18,47,6.1,3.1,1,-5.3,2760095
+Dennis Smith Jr.,PG,21,TOT,North Carolina State,USA,2017,1,9,53,13.6,2.9,4.8,-5.3,3819960
+Ron Baker,SG,25,TOT,Wichita State,USA,Undrafted,Undrafted,Undrafted,15,0.9,0.7,1,-5.2,948580
+Nick Young,SG,33,DEN,USC,USA,2007,1,16,4,2.3,0.3,0.5,-5.1,1042584
+Keita Bates-Diop,SF,23,MIN,Ohio State,USA,2018,2,48,30,5,2.8,0.6,-5.1,838464
+Jeremy Lin,PG,30,TOT,Harvard,USA,Undrafted,Undrafted,Undrafted,74,9.6,2.4,3.1,-5.1,487109
+DeAndre Jordan,C,30,TOT,Texas A&M,USA,2008,2,35,69,11,13.1,2.3,-5.1,22897200
+Amir Johnson,C,31,PHI,None,USA,2005,2,56,51,3.9,2.9,1.2,-5,1512601
+Harry Giles III,PF,20,SAC,Duke,USA,2017,1,20,58,7,3.8,1.5,-5,2207040
+Frank Jackson,PG,20,NOP,Duke,USA,2017,2,31,61,8.1,2.2,1.1,-5,1378242
+DeAndre' Bembry,SG,24,ATL,None,USA,2016,1,21,82,8.4,4.4,2.5,-5,1634640
+Daniel Hamilton,SG,23,ATL,Connecticut,USA,2016,2,56,19,3,2.5,1.2,-4.9,1349383
+Cameron Reynolds,SG,23,MIN,None,USA,Undrafted,Undrafted,Undrafted,19,5,1.6,0.7,-4.9,108953
+Gary Trent Jr.,SG,20,POR,None,USA,Undrafted,Undrafted,Undrafted,15,2.7,0.7,0.3,-4.7,838464
+Malcolm Miller,SF,25,TOR,Holy Cross,USA,Undrafted,Undrafted,Undrafted,10,3.5,0.5,0.1,-4.7,457418
+Malachi Richardson,SG,23,TOR,Syracuse,USA,2016,1,22,22,1.4,0.6,0,-4.6,1569360
+James Johnson,PF,31,MIA,Wake Forest,USA,2009,1,16,55,7.8,3.2,2.5,-4.6,14651700
+Lance Stephenson,SG,28,LAL,Cincinnati,USA,2010,2,40,68,7.2,3.2,2.1,-4.5,4449000
+Robin Lopez,C,30,CHI,Stanford,USA,2008,1,15,74,9.5,3.9,1.2,-4.4,14357750
+JaVale McGee,C,31,LAL,Nevada-Reno,USA,2008,1,18,75,12,7.5,0.7,-4.4,1512601
+Bobby Portis,PF,23,TOT,Arkansas,USA,2015,1,22,50,14.2,8.1,1.4,-4.4,2494346
+Devin Harris,PG,35,DAL,Wisconsin,USA,2004,1,5,68,6.3,1.6,1.8,-4.2,1512601
+Kevin Love,PF,30,CLE,UCLA,USA,2008,1,5,22,17,10.9,2.2,-4.2,24119025
+Anthony Tolliver,PF,33,MIN,Creighton,USA,Undrafted,Undrafted,Undrafted,65,5,2.7,0.7,-4.1,4750000
+Dewayne Dedmon,C,29,ATL,USC,USA,Undrafted,Undrafted,Undrafted,64,10.8,7.5,1.4,-4.1,7200000
+Tyler Johnson,PG,26,TOT,Fresno State,USA,Undrafted,Undrafted,Undrafted,57,10.9,3,2.9,-4,19356932
+Kenrich Williams,SF,24,NOP,None,USA,Undrafted,Undrafted,Undrafted,46,6.1,4.8,1.8,-3.8,838464
+David Nwaba,SF,26,CLE,None,USA,Undrafted,Undrafted,Undrafted,51,6.5,3.2,1.1,-3.8,1512601
+Meyers Leonard,C,26,POR,Illinois,USA,2012,1,11,61,5.9,3.8,1.2,-3.7,10595506
+Miles Bridges,SF,20,CHO,Michigan State,USA,2018,1,12,80,7.5,4,1.2,-3.7,3206640
+Kentavious Caldwell-Pope,SG,25,LAL,Georgia,USA,2013,1,8,82,11.4,2.9,1.3,-3.7,12000000
+Thomas Bryant,C,21,WAS,Indiana,USA,2017,2,42,72,10.5,6.3,1.3,-3.6,1378242
+Ben McLemore,SG,25,SAC,Kansas,USA,2013,1,7,19,3.9,0.9,0.2,-3.5,5460000
+Luke Kornet,PF,23,NYK,Vanderbilt,USA,Undrafted,Undrafted,Undrafted,46,7,2.9,1.2,-3.5,1619260
+Jerome Robinson,SG,21,LAC,Boston College,USA,2018,1,13,33,3.4,1.2,0.6,-3.4,3046200
+Ian Clark,SG,27,NOP,Belmont,USA,Undrafted,Undrafted,Undrafted,60,6.7,1.5,1.6,-3.4,1512601
+J.R. Smith,SG,33,CLE,None,USA,2004,1,18,11,6.7,1.6,1.9,-3.4,14720000
+Jordan McRae,SG,27,WAS,Tennessee,USA,2014,2,58,27,5.9,1.5,1.1,-3.3,17092
+Marvin Bagley III,PF,19,SAC,Duke,USA,2018,1,2,62,14.9,7.6,1,-3.2,7305600
+MarShon Brooks,SG,30,MEM,Providence,USA,2011,1,25,29,6.6,1.6,0.9,-2.8,1656092
+Jalen Brunson,PG,22,DAL,Villanova,USA,2018,2,33,73,9.3,2.3,3.2,-2.8,1230000
+Tim Frazier,PG,28,TOT,None,USA,Undrafted,Undrafted,Undrafted,59,5.3,2.8,4.2,-2.7,196553
+Malik Monk,SG,20,CHO,Kentucky,USA,2017,1,11,73,8.9,1.9,1.6,-2.7,3447480
+Spencer Dinwiddie,PG,25,BRK,Colorado,USA,2014,2,38,68,16.8,2.4,4.6,-2.7,1656092
+Nerlens Noel,C,24,OKC,Kentucky,USA,2013,1,6,77,4.9,4.2,0.6,-2.6,1757429
+Yogi Ferrell,PG,25,SAC,Indiana,USA,Undrafted,Undrafted,Undrafted,71,5.9,1.5,1.9,-2.6,3000000
+Jarrett Allen,C,20,BRK,Texas,USA,2017,1,22,80,10.9,8.4,1.4,-2.4,2034120
+Jaren Jackson Jr.,PF,19,MEM,Michigan State,USA,2018,1,4,58,13.8,4.7,1.1,-2.3,5915040
+JaKarr Sampson,SF,25,CHI,"St. John's, N.Y.",USA,Undrafted,Undrafted,Undrafted,4,20,8,1,-2.3,85458
+Quincy Pondexter,SF,30,SAS,Washington,USA,2010,1,26,53,1.8,0.9,0.5,-2.2,1512601
+Kevin Huerter,SG,20,ATL,Maryland,USA,2018,1,19,75,9.7,3.3,2.9,-2.2,2250960
+Elfrid Payton,PG,24,NOP,Louisana-Lafayette,USA,2014,1,10,42,10.6,5.2,7.6,-2.2,3000000
+Kyle Anderson,SF,25,MEM,UCLA,USA,2014,1,30,43,8,5.8,3,-2.1,8641000
+Taj Gibson,PF,33,MIN,USC,USA,2009,1,26,70,10.8,6.5,1.2,-2.1,14000000
+Tyler Dorsey,SG,22,TOT,Oregon,USA,2017,2,41,48,6.2,2.4,1.2,-2,1378242
+Dwayne Bacon,SG,23,CHO,Florida State,USA,2017,2,40,43,7.3,2.1,1.1,-2,1378242
+Dion Waiters,SG,27,MIA,Syracuse,USA,2012,1,4,44,12,2.6,2.8,-2,11550000
+Wesley Matthews,SF-SG,32,TOT,Marquette,USA,Undrafted,Undrafted,Undrafted,69,12.2,2.5,2.3,-2,512746
+Jeff Green,PF,32,WAS,Georgetown,USA,2007,1,5,77,12.3,4,1.8,-2,1512601
+Tyson Chandler,C,36,TOT,None,USA,2001,1,2,55,3.1,5.6,0.7,-1.9,1333140
+Dorian Finney-Smith,SF,25,DAL,Florida,USA,Undrafted,Undrafted,Undrafted,81,7.5,4.8,1.2,-1.9,1544951
+Dwyane Wade,SG,37,MIA,Marquette,USA,2003,1,5,72,15,4,4.2,-1.8,1512601
+Bradley Beal,SG,25,WAS,Florida,USA,2012,1,3,82,25.6,5,5.5,-1.8,25434263
+C.J. Miles,SF,31,TOT,None,USA,2005,2,34,53,6.4,1.8,0.7,-1.7,8333333
+Alize Johnson,PF,22,IND,Missouri State,USA,2018,2,50,14,0.9,1.4,0.1,-1.6,838464
+Garrett Temple,SG,32,TOT,Louisiana State,USA,Undrafted,Undrafted,Undrafted,75,7.8,2.9,1.4,-1.6,8000000
+Joe Harris,SG,27,BRK,Virginia,USA,2014,2,33,76,13.7,3.8,2.4,-1.6,8333333
+Avery Bradley,SG,28,TOT,Texas,USA,2010,1,19,63,9.9,2.8,2.4,-1.5,12000000
+Trey Burke,PG,26,TOT,Michigan,USA,2013,1,9,58,10.9,1.7,2.7,-1.5,1795015
+Harrison Barnes,PF-SF,26,TOT,North Carolina,USA,2012,1,7,77,16.4,4.7,1.5,-1.5,24107258
+Brandon Ingram,SF,21,LAL,Duke,USA,2016,1,2,52,18.3,5.1,3,-1.5,5757120
+Iman Shumpert,SG,28,TOT,Georgia Tech,USA,2011,1,17,62,7.5,3,1.8,-1.4,11011234
+Rodney McGruder,SG,27,MIA,Kansas State,USA,Undrafted,Undrafted,Undrafted,66,7.6,3.6,1.7,-1.4,1544951
+John Collins,PF,21,ATL,Wake Forest,USA,2017,1,19,61,19.5,9.8,2,-1.4,2299080
+Chimezie Metu,PF,21,SAS,USC,USA,2018,2,49,29,1.8,1.2,0.4,-1.3,838464
+Kosta Koufos,C,29,SAC,Ohio State,USA,2008,1,23,42,3.7,4.2,0.9,-1.3,8739500
+Reggie Bullock,SG,27,TOT,North Carolina,USA,2013,1,25,63,11.3,2.7,2,-1.3,2500000
+Kyle Kuzma,PF,23,LAL,Utah,USA,2017,1,27,70,18.7,5.5,2.5,-1.3,1689840
+Derrick Jones Jr.,SF,21,MIA,UNLV,USA,Undrafted,Undrafted,Undrafted,60,7,4,0.6,-1.2,1512601
+Terry Rozier,PG,24,BOS,Louisville,USA,2015,1,16,79,9,3.9,2.9,-1.1,3050390
+Michael Kidd-Gilchrist,PF,25,CHO,Kentucky,USA,2012,1,2,64,6.7,3.8,1,-0.9,13000000
+Justin Jackson,SF,23,TOT,North Carolina,USA,2017,1,15,81,7.2,2.6,1.2,-0.9,2807880
+Sindarius Thornwell,SG,24,LAC,South Carolina,USA,2017,2,48,64,1,0.7,0.3,-0.8,1378242
+Glenn Robinson III,SF,25,DET,Michigan,USA,2014,2,40,47,4.2,1.5,0.4,-0.8,4075000
+Henry Ellenson,PF,22,TOT,Marquette,USA,2016,1,18,19,6,3.5,0.8,-0.7,341831
+T.J. McConnell,PG,26,PHI,Arizona,USA,Undrafted,Undrafted,Undrafted,76,6.4,2.3,3.4,-0.7,1600520
+Lonzo Ball,PG,21,LAL,UCLA,USA,2017,1,2,47,9.9,5.3,5.4,-0.7,7461960
+Theo Pinson,SG,23,BRK,None,USA,Undrafted,Undrafted,Undrafted,18,4.5,2,1.2,-0.6,4737
+Wayne Ellington,SG,31,TOT,North Carolina,USA,2009,1,28,53,10.3,2,1.4,-0.5,2383076
+Terrence Ross,SG,27,ORL,Washington,USA,2012,1,8,81,15.1,3.5,1.7,-0.5,10500000
+Markelle Fultz,SG,20,PHI,Washington,USA,2017,1,1,19,8.2,3.7,3.1,-0.4,8339880
+Marvin Williams,PF,32,CHO,North Carolina,USA,2005,1,2,75,10.1,5.4,1.2,-0.4,14087500
+Otto Porter Jr.,SF,25,TOT,Georgetown,USA,2013,1,3,56,13.9,5.6,2.1,-0.4,26011913
+Kyle O'Quinn,C,28,IND,Norfolk State,USA,2012,2,49,45,3.5,2.6,1.2,-0.3,4449000
+Troy Brown Jr.,SF,19,WAS,Oregon,USA,2018,1,15,52,4.8,2.8,1.5,-0.3,2749080
+Tyus Jones,PG,22,MIN,Duke,USA,2015,1,24,68,6.9,2,4.8,-0.3,2444053
+Bryn Forbes,SG,25,SAS,Michigan State,USA,Undrafted,Undrafted,Undrafted,82,11.8,2.9,2.1,-0.3,3125000
+E'Twaun Moore,SG,29,NOP,Purdue,USA,2011,2,55,53,11.9,2.4,1.9,-0.3,8808685
+Darius Miller,SF,28,NOP,Kentucky,USA,2012,2,46,69,8.2,1.9,2.1,-0.2,2205000
+Caris LeVert,SF,24,BRK,Michigan,USA,2016,1,20,40,13.7,3.8,3.9,-0.2,1702800
+Julius Randle,PF,24,NOP,Kentucky,USA,2014,1,7,73,21.4,8.7,3.1,-0.2,8641000
+Delon Wright,PG,26,TOT,Utah,USA,2015,1,20,75,8.7,3.5,3.3,-0.1,2536898
+Jeff Teague,PG,30,MIN,Wake Forest,USA,2009,1,19,42,12.1,2.5,8.2,-0.1,19000000
+Corey Brewer,SF,32,TOT,Florida,USA,2007,1,7,31,4.9,2.5,1.3,0,2000000
+Trey Lyles,PF,23,DEN,Kentucky,USA,2015,1,12,64,8.5,3.8,1.4,0,3364249
+DeMar DeRozan,SG,29,SAS,USC,USA,2009,1,9,77,21.2,6,6.2,0,27739975
+Zach Collins,C,21,POR,Gonzaga,USA,2017,1,10,77,6.6,4.2,0.9,0.1,3628920
+Langston Galloway,SG,27,DET,None,USA,Undrafted,Undrafted,Undrafted,80,8.4,2.1,1.1,0.1,7000000
+Michael Carter-Williams,PG,27,TOT,Syracuse,USA,2013,1,11,28,4.8,2.5,2.5,0.2,59820
+Sterling Brown,SG,23,MIL,Southern Methodist,USA,2017,2,46,58,6.4,3.2,1.4,0.2,1378242
+Norman Powell,SG,25,TOR,UCLA,USA,2015,2,46,60,8.6,2.3,1.5,0.2,9367200
+D'Angelo Russell,PG,22,BRK,Ohio State,USA,2015,1,2,81,21.1,3.9,7,0.2,7019698
+Allen Crabbe,SG,26,BRK,California,USA,2013,2,31,43,9.6,3.4,1.1,0.3,18500000
+Luke Kennard,SG,22,DET,Duke,USA,2017,1,12,63,9.7,2.9,1.8,0.3,3275280
+Josh Hart,SG,23,LAL,Villanova,USA,2017,1,30,67,7.8,3.7,1.4,0.4,1655160
+Tobias Harris,PF,26,TOT,Tennessee,USA,2011,1,19,82,20,7.9,2.8,0.4,14800000
+Kemba Walker,PG,28,CHO,Connecticut,USA,2011,1,9,82,25.6,4.4,5.9,0.4,12000000
+Bam Adebayo,C,21,MIA,Kentucky,USA,2017,1,14,82,8.9,7.3,2.2,0.5,2955840
+Reggie Jackson,PG,28,DET,Boston College,USA,2011,1,24,82,15.4,2.6,4.2,0.5,17043478
+Blake Griffin,PF,29,DET,Oklahoma,USA,2009,1,1,75,24.5,7.5,5.4,0.5,32088932
+Will Barton,SF,28,DEN,Memphis,USA,2012,2,40,43,11.5,4.6,2.9,0.6,11830358
+Bruce Brown,SG,22,DET,Miami,USA,2018,2,42,74,4.3,2.5,1.2,0.7,838464
+James Ennis III,SF,28,TOT,Cal State-Long Beach,USA,2013,2,50,58,6.7,3.1,0.7,0.7,1621415
+Rondae Hollis-Jefferson,SF,24,BRK,Arizona,USA,2015,1,23,59,8.9,5.3,1.6,0.7,2470357
+Jeremy Lamb,SG,26,CHO,Connecticut,USA,2012,1,12,79,15.3,5.5,2.2,0.7,7488372
+Derrick Rose,PG,30,MIN,Memphis,USA,2008,1,1,51,18,2.7,4.3,0.7,1512601
+Mike Conley,PG,31,MEM,Ohio State,USA,2007,1,4,70,21.1,3.4,6.4,0.7,30521115
+Jared Dudley,PF,33,BRK,Boston College,USA,2007,1,22,59,4.9,2.6,1.4,0.8,9530000
+Hassan Whiteside,C,29,MIA,Marshall,USA,2010,2,33,72,12.3,11.3,0.8,0.8,25434262
+Alfonzo McKinnie,SF,26,GSW,None,USA,Undrafted,Undrafted,Undrafted,72,4.7,3.4,0.4,0.9,1349383
+Frank Kaminsky,C,25,CHO,Wisconsin,USA,2015,1,9,47,8.6,3.5,1.3,0.9,3627842
+De'Aaron Fox,PG,21,SAC,Kentucky,USA,2017,1,5,81,17.3,3.8,7.3,0.9,5470920
+Karl-Anthony Towns,C,23,MIN,Kentucky,USA,2015,1,1,77,24.4,12.4,3.4,0.9,7839435
+Mike Muscala,PF,27,TOT,Bucknell,USA,2013,2,44,64,7,3.8,1.2,1,5000000
+Josh Richardson,SG,25,MIA,Tennessee,USA,2015,2,40,73,16.6,3.6,4.1,1,9367200
+Willie Cauley-Stein,C,25,SAC,Kentucky,USA,2015,1,6,81,11.9,8.4,2.4,1.2,4696875
+Evan Turner,PG,30,POR,Ohio State,USA,2010,1,2,73,6.8,4.5,3.9,1.3,17868853
+Shabazz Napier,PG,27,BRK,Connecticut,USA,2014,1,24,56,9.4,1.8,2.6,1.3,1942422
+Cody Zeller,C,26,CHO,Indiana,USA,2013,1,4,49,10.1,6.8,2.1,1.4,13528090
+Marcus Morris Sr.,PF,29,BOS,Kansas,USA,2011,1,14,75,13.9,6.1,1.5,1.4,5375000
+Aaron Gordon,PF,23,ORL,Arizona,USA,2014,1,4,78,16,7.4,3.7,1.5,21590909
+LaMarcus Aldridge,C,33,SAS,Texas,USA,2006,1,2,81,21.3,9.2,2.4,1.5,22347015
+Wes Iwundu,SF,24,ORL,Kansas State,USA,2017,2,33,68,5,2.7,1.1,1.7,1378242
+John Henson,C,28,MIL,North Carolina,USA,2012,1,14,14,5.6,5.1,1,1.7,11327466
+Landry Shamet,SG,21,TOT,Wichita State,USA,2018,1,26,79,9.1,1.7,1.5,1.7,1703649
+Mike Scott,PF,30,TOT,Virginia,USA,2012,2,43,79,5.8,3.5,0.8,1.8,4320500
+Joakim Noah,C,33,MEM,Florida,USA,2007,1,9,42,7.1,5.7,2.1,1.8,1093858
+Tyreke Evans,SG,29,IND,Memphis,USA,2009,1,4,69,10.2,2.9,2.4,1.9,12400000
+DeMarre Carroll,PF,32,BRK,Missouri,USA,2009,1,27,67,11.1,5.2,1.3,1.9,15400000
+Montrezl Harrell,C,25,LAC,Louisville,USA,2015,2,32,82,16.6,6.5,2,1.9,6000000
+Gary Clark,PF,24,HOU,None,USA,Undrafted,Undrafted,Undrafted,51,2.9,2.3,0.4,2,596873
+Isaiah Briscoe,PG,22,ORL,None,USA,Undrafted,Undrafted,Undrafted,39,3.5,1.9,2.2,2,838464
+Jake Layman,SF,24,POR,Maryland,USA,2016,2,47,71,7.6,3.1,0.7,2,1544951
+LeBron James,SF,34,LAL,None,USA,2003,1,1,55,27.4,8.5,8.3,2,35654150
+Darren Collison,PG,31,IND,UCLA,USA,2009,1,21,76,11.2,3.1,6,2.2,10000000
+Treveon Graham,SG,25,BRK,Va Commonwealth,USA,Undrafted,Undrafted,Undrafted,35,5.3,3.1,1,2.3,1512601
+Robert Covington,SF,28,TOT,Tennessee State,USA,Undrafted,Undrafted,Undrafted,35,13.3,5.5,1.3,2.3,10464092
+Jaylen Brown,SG,22,BOS,California,USA,2016,1,3,74,13,4.2,1.4,2.4,5169960
+Austin Rivers,SG,26,TOT,Duke,USA,2012,1,10,76,8.1,2.1,2.2,2.5,922943
+Thaddeus Young,PF,30,IND,Georgia Tech,USA,2007,1,12,81,12.6,6.5,2.5,2.5,13964045
+Raymond Felton,PG,34,OKC,North Carolina,USA,2005,1,5,33,4.3,1,1.6,2.6,1512601
+Ish Smith,PG,30,DET,Wake Forest,USA,Undrafted,Undrafted,Undrafted,56,8.9,2.6,3.6,2.7,6000000
+Myles Turner,C,22,IND,Texas,USA,2015,1,11,74,13.3,7.2,1.6,2.8,3410284
+Damian Jones,C,23,GSW,Vanderbilt,USA,2016,1,30,24,5.4,3.1,1.2,3,1544951
+Shaun Livingston,PG,33,GSW,None,USA,2004,1,4,64,4,1.8,1.8,3.2,8307692
+Mason Plumlee,C,28,DEN,Duke,USA,2013,1,22,82,7.8,6.4,3,3.2,12917808
+D.J. Augustin,PG,31,ORL,Texas,USA,2008,1,9,81,11.7,2.5,5.3,3.2,7250000
+Torrey Craig,SF,28,DEN,South Carolina Upstate,USA,Undrafted,Undrafted,Undrafted,75,5.7,3.5,1,3.3,2000000
+Andre Drummond,C,25,DET,Connecticut,USA,2012,1,9,79,17.3,15.6,1.4,3.3,25434263
+Justise Winslow,SF,22,MIA,Duke,USA,2015,1,10,66,12.6,5.4,4.3,3.4,3448926
+Anthony Davis,C,25,NOP,Kentucky,USA,2012,1,1,56,25.9,12,3.9,3.4,25434263
+T.J. Leaf,PF,21,IND,UCLA,USA,2017,1,18,58,3.9,2.2,0.4,3.6,2407560
+Doug McDermott,SF,27,IND,Creighton,USA,2014,1,11,77,7.3,1.4,0.9,3.6,7333333
+Kyle Korver,SG,37,TOT,Creighton,USA,2003,2,51,70,8.6,2.3,1.2,3.6,7560000
+Jimmy Butler,SF-SG,29,TOT,Marquette,USA,2011,1,30,65,18.7,5.3,4,3.6,20445779
+Tyrone Wallace,PG,24,LAC,California,USA,2016,2,60,62,3.5,1.6,0.7,3.7,1349383
+Marcus Smart,SG,24,BOS,Oklahoma State,USA,2014,1,6,80,8.9,2.9,4,3.8,11660716
+Terrance Ferguson,SG,20,OKC,None,USA,2017,1,21,74,6.9,1.9,1,3.9,2118840
+Malik Beasley,SG,22,DEN,Florida State,USA,2016,1,19,81,11.3,2.5,1.2,3.9,1773840
+Lou Williams,SG,32,LAC,None,USA,2005,2,45,75,20,3,5.4,3.9,8000000
+Patrick Beverley,PG,30,LAC,None,USA,2009,2,42,78,7.6,5,3.8,4,5027028
+Kenneth Faried,C,29,TOT,Morehead State,USA,2011,1,22,37,10.4,6.8,0.5,4,683661
+Rudy Gay,PF,32,SAS,Connecticut,USA,2006,1,8,69,13.7,6.8,2.6,4.1,10087200
+Wilson Chandler,PF-SF,31,TOT,DePaul,USA,2007,1,23,51,6,4.2,1.6,4.2,12800562
+Deonte Burton,SG,25,OKC,Iowa State,USA,Undrafted,Undrafted,Undrafted,32,2.6,0.9,0.3,4.3,151587
+Ed Davis,C,29,BRK,North Carolina,USA,2010,1,13,81,5.8,8.6,0.8,4.3,4449000
+Seth Curry,SG,28,POR,Duke,USA,Undrafted,Undrafted,Undrafted,74,7.9,1.6,0.9,4.3,2795000
+Monte Morris,PG,23,DEN,Iowa State,USA,2017,2,51,82,10.4,2.4,3.6,4.3,1349383
+Jarell Martin,PF,24,ORL,Louisiana State,USA,2015,1,25,42,2.7,1.7,0.4,4.4,2416222
+Jae Crowder,SF,28,UTA,Marquette,USA,2012,2,34,80,11.9,4.8,1.7,4.4,7305825
+Jrue Holiday,SG,28,NOP,UCLA,USA,2009,1,17,67,21.2,5,7.7,4.4,25976111
+Jarred Vanderbilt,PF,19,DEN,Kentucky,USA,2018,2,41,17,1.4,1.4,0.2,4.5,838464
+P.J. Tucker,PF,33,HOU,Texas,USA,2006,2,35,82,7.3,5.8,1.2,4.5,7969537
+DeMarcus Cousins,C,28,GSW,Kentucky,USA,2010,1,5,30,16.3,8.2,3.6,4.5,5337000
+Gerald Green,SG,33,HOU,None,USA,2005,1,18,73,9.2,2.5,0.5,4.6,1512601
+Derrick Favors,C,27,UTA,Georgia Tech,USA,2010,1,3,76,11.8,7.4,1.2,4.6,16900000
+Royce O'Neale,SF,25,UTA,Baylor,USA,Undrafted,Undrafted,Undrafted,82,5.2,3.5,1.5,4.8,1378242
+Derrick White,PG,24,SAS,Colorado,USA,2017,1,29,67,9.9,3.7,3.9,4.8,1667160
+D.J. Wilson,PF,22,MIL,Michigan,USA,2017,1,17,48,5.8,4.6,1.1,4.9,2534280
+Pat Connaughton,SG,26,MIL,Notre Dame,USA,2015,2,41,61,6.9,4.2,2,5,1641000
+Russell Westbrook,PG,30,OKC,UCLA,USA,2008,1,4,73,22.9,11.1,10.7,5,35654150
+Gordon Hayward,PF,28,BOS,Butler,USA,2010,1,9,72,11.5,4.5,3.4,5.1,31214295
+Jerami Grant,PF,24,OKC,Syracuse,USA,2014,2,39,80,13.6,5.2,1,5.4,8653847
+George Hill,PG,32,TOT,None,USA,2008,1,26,60,7.6,2.5,2.3,5.6,19000000
+J.J. Redick,SG,34,PHI,Duke,USA,2006,1,11,76,18.1,2.4,2.7,5.6,12250000
+Victor Oladipo,SG,26,IND,Indiana,USA,2013,1,2,36,18.8,5.6,5.2,5.6,21000000
+Jodie Meeks,SG,31,TOR,Kentucky,USA,2009,2,41,8,6.4,1.5,1,5.8,3454500
+Semi Ojeleye,PF,24,BOS,Southern Methodist,USA,2017,2,37,56,3.3,1.5,0.4,6,1378242
+Gary Harris,SG,24,DEN,Michigan State,USA,2014,1,19,57,12.9,2.8,2.2,6.2,16517857
+James Harden,PG,29,HOU,Arizona State,USA,2009,1,3,78,36.1,6.6,7.5,6.3,30421854
+CJ McCollum,SG,27,POR,Lehigh,USA,2013,1,10,70,21,4,3,6.5,25759766
+Klay Thompson,SG,28,GSW,Washington State,USA,2011,1,11,78,21.5,3.8,2.4,6.5,18988725
+Tony Snell,SF,27,MIL, ,USA,2013,1,20,74,6,2.1,0.9,6.6,10807143
+Tyler Zeller,C,29,TOT,North Carolina,USA,2012,1,17,6,7.7,4,0.7,6.7,59820
+Jayson Tatum,SF,20,BOS,Duke,USA,2017,1,3,79,15.7,6,2.1,6.8,6700800
+Donovan Mitchell,SG,22,UTA,Louisville,USA,2017,1,13,77,23.8,4.1,4.2,6.8,3111480
+Aaron Holiday,PG,22,IND,UCLA,USA,2018,1,23,50,5.9,1.3,1.7,7,1911960
+Zhaire Smith,SG,19,PHI,Texas Tech,USA,2018,1,16,6,6.7,2.2,1.7,7.3,2526840
+Maurice Harkless,SF,25,POR,"St. John's, N.Y.",USA,2012,1,15,60,7.7,4.5,1.2,7.9,10837079
+Kawhi Leonard,SF,27,TOR,San Diego State,USA,2011,1,15,60,26.6,7.3,3.3,7.9,23114067
+Brandon Goodwin,PG,23,DEN,None,USA,Undrafted,Undrafted,Undrafted,16,1.4,0.2,0.9,8,630032
+Fred VanVleet,PG,24,TOR,Wichita State,USA,Undrafted,Undrafted,Undrafted,64,11,2.6,4.8,8.1,8653847
+Eric Gordon,SG,30,HOU,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,13500375
+Al-Farouq Aminu,PF,28,POR,Wake Forest,USA,2010,1,8,81,9.4,7.5,1.3,8.2,6957105
+Damian Lillard,PG,28,POR,Weber State,USA,2012,1,6,80,25.8,4.6,6.9,8.2,27977689
+Paul George,SF,28,OKC,Fresno State,USA,2010,1,10,77,28,8.2,4.1,8.2,30560700
+Chris Paul,PG,33,HOU,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,35654150
+Paul Millsap,PF,33,DEN,Louisiana Tech,USA,2006,2,47,70,12.6,7.2,2,8.6,29230769
+Brad Wanamaker,PG,29,BOS,Pittsburgh,USA,Undrafted,Undrafted,Undrafted,36,3.9,1.1,1.6,8.8,838464
+Danuel House Jr.,SF,25,HOU,Texas A&M,USA,Undrafted,Undrafted,Undrafted,39,9.4,3.6,1,8.9,247827
+Andre Iguodala,SF,35,GSW,Arizona,USA,2004,1,9,68,5.7,3.7,3.2,9,16000000
+Kevon Looney,C,22,GSW,UCLA,USA,2015,1,30,80,6.3,5.2,1.5,10.3,1512601
+Khris Middleton,SF,27,MIL,Texas A&M,USA,2012,2,39,77,18.3,6,4.3,10.5,13000000
+Jemerrio Jones,SF,23,LAL,None,USA,Undrafted,Undrafted,Undrafted,6,4.5,8.2,2.2,10.7,52108
+Draymond Green,PF,28,GSW,Michigan State,USA,2012,2,35,66,7.4,7.3,6.9,10.7,17469565
+Kyle Lowry,PG,32,TOR,Villanova,USA,2006,1,24,65,14.2,4.8,8.7,10.7,31200000
+Malcolm Brogdon,SG,26,MIL,Virginia,USA,2016,2,36,64,15.6,4.5,3.2,10.7,1544951
+Eric Bledsoe,PG,29,MIL,Kentucky,USA,2010,1,18,78,15.9,4.6,5.5,11.1,15000000
+Kevin Durant,SF,30,GSW,Texas,USA,2007,1,2,78,26,6.4,5.9,11.4,30000000
+Brook Lopez,C,30,MIL,Stanford,USA,2008,1,10,81,12.5,4.9,1.2,11.5,3382000
+Donte DiVincenzo,SG,22,MIL,Villanova,USA,2018,1,17,27,4.9,2.4,1.1,12.6,2481000
+Danny Green,SG,31,TOR,North Carolina,USA,2009,2,46,80,10.3,4,1.6,13.4,10000000
+Stephen Curry,PG,30,GSW,Davidson,USA,2009,1,7,69,27.3,5.3,5.2,13.7,37457154
+Yante Maten,PF,22,MIA,None,USA,Undrafted,Undrafted,Undrafted,2,1,1.5,0,14.8,18948
+Jaylen Morris,SG,23,MIL,Molloy,USA,Undrafted,Undrafted,Undrafted,4,2.5,1.3,1,22.5,1378242
+Alan Williams,PF,26,BRK,Cal-Santa Barbara,USA,Undrafted,Undrafted,Undrafted,5,3.6,3.8,0.6,27.1,5000000
+Al Horford,C,32,BOS,Florida,International,2007,1,3,68,13.6,6.7,4.2,6.1,28928709
+Andrew Wiggins,SF,23,MIN,Kansas,International,2014,1,1,73,18.1,4.8,2.5,-1.2,25467250
+Joel Embiid,C,24,PHI,Kansas,International,2014,1,3,64,27.5,13.6,3.7,7.6,25467250
+Nikola Jokic,C,23,DEN,None,International,2014,2,41,80,20.1,10.8,7.3,5.8,24605181
+Steven Adams,C,25,OKC,Pittsburgh,International,2013,1,12,80,13.9,9.5,1.6,6.7,24157303
+Giannis Antetokounmpo,PF,24,MIL,None,International,2013,1,15,72,27.7,12.5,5.9,12.5,24157303
+Marc Gasol,C,34,TOT,None,International,2007,2,48,79,13.6,7.9,4.4,3.5,24119025
+Nicolas Batum,SF,30,CHO,None,International,2008,1,25,75,9.3,5.2,3.3,-0.5,24000000
+Rudy Gobert,C,26,UTA,None,International,2013,1,27,81,15.9,12.9,2,6.9,23241573
+Serge Ibaka,C,29,TOR,None,International,2008,1,24,74,15,8.1,1.3,6.2,21666667
+Danilo Gallinari,SF,30,LAC,None,International,2008,1,6,68,19.8,6.1,2.6,2.3,21587579
+Kyrie Irving,PG,26,BOS,Duke,International,2011,1,1,67,23.8,5,6.9,6.2,20099189
+Goran Dragic,PG,32,MIA,None,International,2008,2,45,36,13.7,3.1,4.8,1.3,18109175
+Tristan Thompson,C,27,CLE,Texas,International,2011,1,4,43,10.9,10.2,2,-12.3,17469565
+Evan Fournier,SG,26,ORL,None,International,2012,1,20,81,15.1,3.2,3.6,1.7,17150000
+Bismack Biyombo,C,26,CHO,None,International,2011,1,7,54,4.4,4.6,0.6,-7.7,17000000
+Jonas Valanciunas,C,26,TOT,None,International,2011,1,5,49,15.6,8.6,1.4,2.7,16539326
+Ian Mahinmi,C,32,WAS,None,International,2005,1,28,34,4.1,3.8,0.7,-3.2,15944154
+Dennis Schroder,PG,25,OKC,None,International,2013,1,17,79,15.5,3.6,4.1,3.6,15500000
+Gorgui Dieng,C,29,MIN,Louisville,International,2013,1,21,76,6.4,4.1,0.9,-3.8,15170787
+Ricky Rubio,PG,28,UTA,None,International,2009,1,5,68,12.7,3.6,6.1,6.3,14975000
+Clint Capela,C,24,HOU,None,International,2014,1,25,67,16.6,12.7,1.4,5.4,13793104
+Joe Ingles,PF,31,UTA,None,International,Undrafted,Undrafted,Undrafted,82,12.1,4,5.7,7.7,13045455
+Nikola Vucevic,C,28,ORL,USC,International,2011,1,16,80,20.8,12,3.8,4,12750000
+Kelly Olynyk,PF,27,MIA,Gonzaga,International,2013,1,13,79,10,4.7,1.8,1.9,12537527
+Nikola Mirotic,PF,27,TOT,None,International,2011,1,23,46,15.2,7.4,1.2,3.7,12500000
+Patty Mills,PG,30,SAS,St. Mary's (CA),International,2009,2,55,82,9.9,2.2,3,4.5,11571429
+Jusuf Nurkic,C,24,POR,None,International,2014,1,16,72,15.6,10.4,3.2,10.5,11111111
+Bojan Bogdanovic,SF,29,IND,None,International,2011,2,31,81,18,4.1,2,2.9,10500000
+Dwight Powell,C,27,DAL,Stanford,International,2014,2,45,77,10.6,5.3,1.5,0.9,9631250
+Matthew Dellavedova,PG,28,TOT,St. Mary's (CA),International,Undrafted,Undrafted,Undrafted,48,5.9,1.6,3.8,-3.8,9607500
+Dante Exum,PG,23,UTA,None,International,2014,1,5,42,6.9,1.6,2.6,3.2,9600000
+Bogdan Bogdanovic,SG,26,SAC,None,International,2014,1,27,70,14.1,3.5,3.8,-1.1,9000000
+Cristiano Felicio,C,26,CHI,None,International,Undrafted,Undrafted,Undrafted,60,4,3.6,0.6,-8,8740980
+Deandre Ayton,C,20,PHO,Arizona,International,2018,1,1,71,16.3,10.3,1.8,-8.1,8165160
+Cory Joseph,PG,27,IND,Texas,International,2011,1,29,82,6.5,3.4,3.9,5.2,7945000
+Ersan Ilyasova,PF,31,MIL,None,International,2005,2,36,67,6.8,4.5,0.8,9.7,7000000
+Boban Marjanovic,C,30,TOT,None,International,Undrafted,Undrafted,Undrafted,58,7.3,4.6,0.9,0.1,7000000
+Davis Bertans,PF,26,SAS,None,International,2011,2,42,76,8,3.5,1.3,7.6,7000000
+Luka Doncic,SG,19,DAL,None,International,2018,1,3,72,21.2,7.8,6,-3.1,6560640
+Nemanja Bjelica,PF,30,SAC,None,International,2010,2,35,77,9.6,5.8,1.9,2.7,6500000
+Mario Hezonja,SF,23,NYK,None,International,2015,1,5,58,8.8,4.1,1.5,-10,6500000
+Ben Simmons,PG,22,PHI,Louisiana State,International,2016,1,1,79,16.9,8.8,7.7,2.4,6434520
+Milos Teodosic,PG,31,LAC,None,International,Undrafted,Undrafted,Undrafted,15,3.2,1.1,2.1,5.4,6300000
+Marco Belinelli,SG,32,SAS,None,International,2007,1,18,79,10.5,2.5,1.7,0.8,6153846
+Alex Abrines,SG,25,OKC,None,International,2013,2,32,31,5.3,1.5,0.6,1.6,5455236
+Thabo Sefolosha,SF,34,UTA,None,International,2006,1,13,50,3.8,2.5,0.5,8.8,5250000
+Aron Baynes,C,32,BOS,Washington State,International,Undrafted,Undrafted,Undrafted,51,5.6,4.7,1.1,7.7,5193600
+Dirk Nowitzki,PF,40,DAL,None,International,1998,1,9,51,7.3,3.1,0.7,-4.8,5000000
+Tony Parker,PG,36,CHO,None,International,2001,1,28,56,9.5,1.5,3.7,-0.1,5000000
+Dragan Bender,PF,21,PHO,None,International,2016,1,4,46,5,4,1.2,-8.1,4661280
+Lauri Markkanen,PF,21,CHI,Arizona,International,2017,1,7,52,18.7,9,1.4,-5.5,4536120
+Alex Len,C,25,ATL,Maryland,International,2013,1,5,77,11.1,5.5,1.1,-4.4,4350000
+Luc Mbah a Moute,PF,32,LAC,California-Los Angeles,International,2008,2,37,4,5,1.8,0.5,7.8,4320500
+Emmanuel Mudiay,PG,22,NYK,None,International,2015,1,7,59,14.8,3.3,3.9,-10.8,4294480
+Frank Ntilikina,PG,20,NYK,None,International,2017,1,8,43,5.7,2,2.8,-8.5,4155720
+Buddy Hield,SG,26,SAC,Oklahoma,International,2016,1,6,82,20.7,5,2.5,-0.6,3844760
+J.J. Barea,PG,34,DAL,Northeastern,International,Undrafted,Undrafted,Undrafted,38,10.9,2.5,5.6,3.2,3710850
+Nene,C,36,HOU,None,International,2002,1,7,42,3.6,2.9,0.6,9.2,3651480
+Jamal Murray,PG,21,DEN,Kentucky,International,2016,1,7,75,18.2,4.2,4.8,4.8,3499800
+Shai Gilgeous-Alexander,PG,20,LAC,Kentucky,International,2018,1,11,82,10.8,2.8,3.3,-2,3375360
+Tomas Satoransky,PG,27,WAS,None,International,2012,2,32,80,8.9,3.5,5,-0.4,3129187
+Jakob Poeltl,C,23,SAS,Utah,International,2016,1,9,77,5.5,5.3,1.2,3.9,2947320
+Thon Maker,C-PF,21,TOT,None,International,2016,1,10,64,5,3.2,0.7,0.9,2799720
+Cedi Osman,SF,23,CLE,None,International,2015,2,31,76,13,4.7,2.6,-12.8,2775000
+Guerschon Yabusele,PF,23,BOS,None,International,2016,1,16,41,2.3,1.3,0.4,-3.6,2667600
+Domantas Sabonis,C,22,IND,Gonzaga,International,2016,1,11,74,14.1,9.3,2.9,5.2,2659800
+Dario Saric,PF,24,TOT,None,International,2014,1,12,81,10.6,5.6,1.6,-2,2526840
+Juancho Hernangomez,PF,23,DEN,None,International,2016,1,15,70,5.8,3.8,0.8,1.3,2166360
+Josh Okogie,SG,20,MIN,Georgia Institute of Technology,International,2018,1,20,74,7.7,2.9,1.2,-1,2160720
+Raul Neto,PG,26,UTA,None,International,2013,2,47,37,5.3,1.7,2.5,17.5,2150000
+OG Anunoby,SF,21,TOR,Indiana,International,2017,1,23,67,7,2.9,0.7,-1.7,2034120
+Ante Zizic,C,22,CLE,None,International,2016,1,23,59,7.8,5.4,0.9,-3.9,1952760
+Moritz Wagner,C,21,LAL,Michigan,International,2018,1,25,43,4.8,2,0.6,-9.8,1762080
+Furkan Korkmaz,SG,21,PHI,None,International,2016,1,26,48,5.8,2.2,1.1,3.7,1740000
+Jonah Bolden,PF,23,PHI,None,International,2017,2,36,44,4.7,3.8,0.9,-1.8,1690000
+Dzanan Musa,SG,19,BRK,None,International,2018,1,29,9,2.1,0.6,0.2,10.6,1632240
+Rodions Kurucs,SF,20,BRK,None,International,2018,2,40,63,8.5,3.9,0.8,-0.4,1618320
+Willy Hernangomez,C,24,CHO,None,International,2015,2,35,58,7.3,5.4,1,-6.2,1544951
+Cheick Diallo,PF,22,NOP,Kansas,International,2016,2,33,64,6,5.2,0.5,-4.7,1544951
+Skal Labissiere,PF,22,TOT,Kentucky,International,2016,1,28,22,3,2,0.5,-8.3,1544951
+Timothe Luwawu-Cabarrot,SF,23,TOT,None,International,2016,1,24,50,4.6,1.9,0.5,-14.4,1544951
+Ivica Zubac,C,21,TOT,None,International,2016,2,32,59,8.9,6.1,1.1,1.8,1544951
+Pascal Siakam,PF,24,TOR,New Mexico State,International,2016,1,27,80,16.9,6.9,3.1,10.6,1544951
+Luol Deng,SF,33,MIN,Duke,International,2004,1,7,22,7.1,3.3,0.8,10,1512601
+Jonas Jerebko,PF,31,GSW,None,International,2009,2,39,73,6.3,3.9,1.3,1.5,1512601
+Jose Calderon,PG,37,DET,None,International,Undrafted,Undrafted,Undrafted,49,2.3,1.2,2.3,-14,1512601
+Omri Casspi,SF,30,MEM,None,International,2009,1,23,36,6.3,3.2,0.7,1.1,1512601
+Zaza Pachulia,C,34,DET,None,International,2003,2,42,68,3.9,3.9,1.3,-4.6,1512601
+Sviatoslav Mykhailiuk,SF,21,TOT,Kansas,International,2018,2,47,42,3.2,0.9,0.9,-0.5,1487694
+Daniel Theis,C,26,BOS,None,International,Undrafted,Undrafted,Undrafted,66,5.7,3.4,1,7.4,1378242
+Maxi Kleber,PF,27,DAL,None,International,Undrafted,Undrafted,Undrafted,71,6.8,4.6,1,2.7,1378242
+Abdel Nader,SF,25,OKC,Iowa State,International,2016,2,58,61,4,1.9,0.3,-9.5,1378242
+Zhou Qi,PF,23,HOU,None,International,2016,2,43,1,2,0,0,-66.7,1378242
+Dillon Brooks,SF,23,MEM,Oregon,International,2017,2,45,18,7.5,1.7,0.9,-1.6,1378242
+Khem Birch,C,26,ORL,UNLV,International,Undrafted,Undrafted,Undrafted,50,4.8,3.8,0.8,3.2,1378242
+Elie Okobo,PG,21,PHO,None,International,2018,2,31,53,5.7,1.8,2.4,-9.9,1238464
+Isaac Bonga,PG,19,LAL,None,International,2018,2,39,22,0.9,1.1,0.7,7,1000000
+Isaiah Hartenstein,PF,20,HOU,None,International,2017,2,43,28,1.9,1.7,0.5,9.6,838464
+Ryan Broekhoff,SG,28,DAL,None,International,Undrafted,Undrafted,Undrafted,42,4,1.5,0.5,8.3,838464
+Bruno Caboclo,PF,23,MEM,None,International,2014,1,20,34,8.3,4.6,1.5,0.9,522151
+Salah Mejri,C,32,DAL,None,International,Undrafted,Undrafted,Undrafted,36,3.9,3.6,1,-4.4,512746
+Nik Stauskas,SG,25,TOT,Michigan,International,2014,1,8,68,5.9,1.9,1.2,-12.9,504200
+Enes Kanter,C,26,TOT, ,International,2011,1,3,67,13.7,9.8,1.7,-6.2,487109
+Chris Boucher,PF,26,TOR,Oregon,International,Undrafted,Undrafted,Undrafted,28,3.3,2,0.1,-4.2,457418
+Pau Gasol,C,38,TOT,None,International,2001,1,3,30,3.9,4.6,1.7,-6.2,333285
+Andrew Bogut,C,34,GSW,Utah,International,2005,1,1,11,3.5,5,1,3.9,307648
+Dairis Bertans,SG,29,NOP,None,International,Undrafted,Undrafted,Undrafted,12,2.8,0.8,0.8,-15,194220
+Donatas Motiejunas,PF,28,SAS,None,International,2011,1,20,3,2,1,0.3,-61.8,59820
+Isaac Humphries,C,21,ATL,Kentucky,International,Undrafted,Undrafted,Undrafted,5,3,2.2,0,-17.1,47371
+Mitchell Creek,SF,26,TOT,None,International,Undrafted,Undrafted,Undrafted,5,4.2,2.4,1.2,8.9,47371
